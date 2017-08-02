@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">mHBS_training</string>
+    <string name="title_activity_main">mHBS Learner Tracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="downloads">Downloads</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="information">Information</string>
+    <string name="email_example">android.studio@android.com</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="videos">Videos</string>
+    <string name="resources">Resources</string>
+    <string name="courses">Courses</string>
+    <string name="mHBS_Tracker">mHBS Tracker App</string>
+    <string name="toggleOn">On</string>
+    <string name="toggleOff">Off</string>
+    <string name="studio">Android Studio</string>
+    <string name="title_activity_videos">videosActivity</string>
+    <string name="title_activity_courses">coursesActivity</string>
+    <string name="trackerCapture">org.hisp.dhis.android.trackercapture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="trackerCaptureNA">tracker capture not available</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+    <string name="search">Search</string>
+    <string name="resourceKey">resourceKey</string>
+
+</resources>
